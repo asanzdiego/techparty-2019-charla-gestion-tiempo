@@ -29,12 +29,14 @@
 
 # Acerca de
 
-- [What makes a good life? Lessons from the longest study on happiness | Robert Waldinger](https://www.youtube.com/watch?v=8KkKuTCFvzI)
-- [How to gain control of your free time | Laura Vanderkam](https://www.youtube.com/watch?v=n3kNlFMXslo)
-- [How to stop screwing yourself over | Mel Robbins](https://www.youtube.com/watch?v=Lp7E973zozc)
-- [Inside the mind of a master procrastinator | Tim Urban](https://www.youtube.com/watch?v=arj7oStGLkU)
-- [Habits of Efficient Developers | Daniel Lebrero](https://www.youtube.com/watch?v=9-cyC6O81Bk)
-
+> - [What makes a good life? Lessons from the longest study on happiness | Robert Waldinger](https://www.youtube.com/watch?v=8KkKuTCFvzI)
+> - [How to gain control of your free time | Laura Vanderkam](https://www.youtube.com/watch?v=n3kNlFMXslo)
+> - [How to stop screwing yourself over | Mel Robbins](https://www.youtube.com/watch?v=Lp7E973zozc)
+> - [Inside the mind of a master procrastinator | Tim Urban](https://www.youtube.com/watch?v=thATmzHx5AY)
+> - [Habits of Efficient Developers | Daniel Lebrero](https://www.youtube.com/watch?v=9-cyC6O81Bk)
+> - [THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE | STEPHEN COVEY](https://www.youtube.com/watch?v=ktlTxC4QG8g)
+> - [80/20 Rule - Do More by Doing Less | The Pareto Principle](https://www.youtube.com/watch?v=EAynHZE-lK4)
+> - [Getting Things Done (GTD) | David Allen](https://www.youtube.com/watch?v=gCswMsONkwY)
 
 ## Autor
 
