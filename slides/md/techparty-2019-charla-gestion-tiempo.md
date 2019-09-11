@@ -58,13 +58,13 @@
 > - [What makes a good life? Lessons from the longest study on happiness | Robert Waldinger](https://www.youtube.com/watch?v=8KkKuTCFvzI)
     > - Las relaciones cercanas y verdaderas hacen más feliz a la persona que el dinero o la fama.
 
-## 
+## Resumen
 
-- Marcar unos **objetivos** claros y realizables (si se pueden medir mejor).
-- Dividir en **tareas** concretas y cortas (si se pueden agendar mejor).
-- **Priorizar** constantemente tu lista de tareas (al menos una vez a la semana).
-- Evitar las **distracciones** (internas) y las **interrupciones** (externas).
-- **Revisar** tus logros y darte algún capricho como recompensa (de vez en cuando).
+- Marcar unos **objetivos** retadores pero realizables y que se se pueden medir.
+- Dividir en **tareas** cortas, concretas y que se puedan agendar.
+- **Priorizar** al menos una vez a la semana tu lista de tareas.
+- Evitar las **distracciones** internas y las **interrupciones** externas.
+- **Revisar** tus logros y darte caprichos como recompensas.
 
 ## Áreas importantes
 
@@ -75,19 +75,30 @@
 > - Amor
     > - Pareja, familia, amigos, comunidad
 
+## Objetivos
+
+> - Salud
+    > - Perder 2 kilos, correr una carrera, dormir 8 horas.
+> - Dinero
+    > - Aprender una tecnología, superar B2 de inglés, ahorrar X € al año.
+> - Amor
+    > - Pasar más tiempo con mis seres queridos.
+
+## Tareas
+
+> - Lunes y viernes comer ensalada.
+> - Domingos salir a correr.
+> - De lunes a viernes ponerme alarma para irme a dormir.
+> - Lunes y miércoles ver una charla técnica en inglés.
+> - Antes de acostarme 15 minutos de ejercicios de inglés.
+> - A principio de mes meter X/12 € en la cuenta de ahorro.
+> - Domingos por la tarde juego de mesa en familia.
+
+
+
 # Acerca de
 
 
-
-## Autor
-
-- **Adolfo Sanz De Diego**
-    - Blog: [asanzdiego.com](http://asanzdiego.com/)
-    - Correo: [asanzdiego@gmail.com](mailto:asanzdiego@gmail.com)
-    - GitHub: [github.com/asanzdiego](http://github.com/asanzdiego)
-    - Twitter: [twitter.com/asanzdiego](http://twitter.com/asanzdiego)
-    - LinkedIn: [in/asanzdiego](http://www.linkedin.com/in/asanzdiego)
-    - SlideShare: [slideshare.net/asanzdiego](http://www.slideshare.net/asanzdiego/)
 
 ## Licencia
 
