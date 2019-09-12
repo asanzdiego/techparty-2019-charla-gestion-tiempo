@@ -2,13 +2,9 @@
 % Adolfo Sanz De Diego
 % Tech.Party.2019
 
-
-
 # Autor
 
-
-
-## Adolfo Sanz De Diego**
+## Adolfo Sanz De Diego
 
 - Blog: [asanzdiego.com](http://asanzdiego.com/)
 - Correo: [asanzdiego@gmail.com](mailto:asanzdiego@gmail.com)
@@ -54,54 +50,116 @@
 > - [How to gain control of your free time | Laura Vanderkam](https://www.youtube.com/watch?v=n3kNlFMXslo)
     > - "No tengo tiempo", a menudo significa "No es una prioridad."
 > - [How to stop screwing yourself over | Mel Robbins](https://www.youtube.com/watch?v=Lp7E973zozc)
-    > - La regla de los 5 segundos para no procastinar
+    > - La regla de los 5 segundos para no procastinar.
 > - [What makes a good life? Lessons from the longest study on happiness | Robert Waldinger](https://www.youtube.com/watch?v=8KkKuTCFvzI)
     > - Las relaciones cercanas y verdaderas hacen más feliz a la persona que el dinero o la fama.
 
-## Resumen
+# Objetivos
 
-- Marcar unos **objetivos** retadores pero realizables y que se se pueden medir.
-- Dividir en **tareas** cortas, concretas y que se puedan agendar.
-- **Priorizar** al menos una vez a la semana tu lista de tareas.
-- Evitar las **distracciones** internas y las **interrupciones** externas.
-- **Revisar** tus logros y darte caprichos como recompensas.
+## Concretar sueños
+
+> - Los objetivos nos ayudan a cumplir nuestros **sueños**.
+> - Tienen que ser **desafiantes** para que sean motivadores.
+> - Tienen que ser **realizables** según tu nivel de habilidad.
+> - Se tienen que **poder medir** para poder evaluar su consecución.
+> - Evalualos y escribe unos nuevos **al menos una vez al año**.
+> - Cubre **todas las areas importantes** de tu vida.
 
 ## Áreas importantes
 
-> - Salud
-    > - Alimentación, deporte, dormir, diversión
-> - Dinero
-    > - Trabajo, formación, gastos, ahorros
-> - Amor
-    > - Pareja, familia, amigos, comunidad
+> - **Salud**
+    > - Alimentación, deporte, dormir, diversión...
+> - **Dinero**
+    > - Trabajo, formación, gastos, ahorros...
+> - **Amor**
+    > - Pareja, familia, amigos, comunidad...
 
-## Objetivos
+## Ejemplos de objetivos
 
-> - Salud
-    > - Perder 2 kilos, correr una carrera, dormir 8 horas.
-> - Dinero
-    > - Aprender una tecnología, superar B2 de inglés, ahorrar X € al año.
-> - Amor
-    > - Pasar más tiempo con mis seres queridos.
+> - Perder 2 kilos
+> - Correr una determinada carrera
+> - Dormir 8 horas
+> - Superar el B2 de inglés
+> - Aprender una determinada tecnología
+> - Ahorrar X € al año.
+> - Pasar más tiempo con mis seres queridos.
 
-## Tareas
+# Tareas
 
-> - Lunes y viernes comer ensalada.
-> - Domingos salir a correr.
-> - De lunes a viernes ponerme alarma para irme a dormir.
-> - Lunes y miércoles ver una charla técnica en inglés.
+## Concretar objetivos
+
+> - Las tareas nos ayudan a cumplir nuestros **objetivos**.
+> - Tienen que ser **cortas** aunque haya muchas para un mismo objetivo.
+> - Tienen que ser **concretas** para no dudar en su ejecución.
+> - Se tienen que **poder agendar** para que no se diluyan en el día a día.
+> - Prioriza y agenda tus tareas **al menos una vez a la semana**.
+> - Cubre **todos las objetivos** de tus sueños.
+
+## Importante vs Urgente
+
+|            | IMPORTANTE | NO IMPORTANTE |
+| URGENTE    | - hazlo    | - agéndalo    |
+| NO URGENTE | - delégalo | - evítalo     |
+
+## Ejemplos de tareas
+
+> - Lunes y miércoles comer una ensalada.
+> - Martes y jueves salir a correr de 20:00 a 21:00.
+> - De lunes a viernes ponerme alarma a las 23:00 para irme a dormir.
 > - Antes de acostarme 15 minutos de ejercicios de inglés.
-> - A principio de mes meter X/12 € en la cuenta de ahorro.
-> - Domingos por la tarde juego de mesa en familia.
+> - Viernes de 16:00 a 17:00 ver una charla técnica en inglés.
+> - A principio de mes meter X/12 € en la cuenta de ahorro de forma automática.
+> - Domingos de 18:00 a 20:00 juegos de mesa en familia.
+
+## Herramientas
+
+> - **Calendario** con agenda (para planificar tus tareas).
+> - **Lista de tareas** (no todas se agendan)
+> - **Alarmas** (movil o reloj) programables.
+
+## Tips varios
+
+> - Haz solo **una cosa a la vez**.
+> - Mantén el **orden** físico y virtual.
+> - **Automatiza** todo lo que puedas.
+> - Recuerda la **regla 80/20**.
+> - El tiempo de una tarea **se expande** en función del tiempo asignado.
+> - Aprende a **decir NO** para no embarcarte en asuntos que no son tus planes.
+
+# Ladrones de tiempo
+
+## Distracciones
+
+> - Cuando en vez de hacer tus tareas programadas empiezas a procastinar.
+    > - Utiliza la **regla de los 5 segundos**.
+    > - Date de baja de **listas de correo** que no te sean útiles.
+    > - Desinstala las **redes sociales** del teléfono.
+    > - Cierra todas las **pestañas del navegador**, salvo las 2/3 que uses.
+
+## Interrupciones
+
+> - Cuando te interrumpen en mitad de una tarea programada.
+    > - **Ponte cascos** y comenta a tus compañeros que no te molesten mientras los tienes puestos.
+    > - Pon el móvil y el ordenador en **modo no molestar** sin notificaciones.
+    > - Mira el **correo** solo 2/3 veces al día.
+    > - **Reuniones** de no más de una hora con una agenda clara.
 
 
+# Para finalizar
 
-# Acerca de
+## Resumen
 
-
+> - Marcar unos **objetivos** desafiantes pero realizables y que se se pueden medir.
+> - **Evaluar** al menos una vez al año tu lista de objetivos.
+> - Dividir en **tareas** cortas, concretas y que se puedan agendar.
+> - **Agendar** al menos una vez a la semana tu lista de tareas.
+> - Evitar las **distracciones** internas y las **interrupciones** externas.
 
 ## Licencia
 
 - **Esta obra está bajo una licencia:**
-    - [Creative Commons Reconocimiento-CompartirIgual 3.0](http://creativecommons.org/licenses/by-sa/3.0/es/)
+  - [Creative Commons Reconocimiento-CompartirIgual 3.0](http://creativecommons.org/licenses/by-sa/3.0/es/)
 
+## Gracias
+
+- <http://google.com>
