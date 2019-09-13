@@ -167,4 +167,6 @@
 
 ## Gracias
 
-- <http://google.com>
+<img src="../img/qr-feedback.png" alt="Codigo QR a http://bit.ly/techparty2019" style="width:35%"/>
+
+- <http://bit.ly/techparty2019>
