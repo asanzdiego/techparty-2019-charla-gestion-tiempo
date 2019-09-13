@@ -1,1 +1,1 @@
-- [Slides - Tips para mejorar la gestión de tu tiempo - Tech.Party.2019]()
+- [Slides - Tips para mejorar la gestión de tu tiempo - Tech.Party.2019](https://asanzdiego.github.io/techparty-2019-charla-gestion-tiempo/slides/export/techparty-2019-charla-gestion-tiempo-reveal-slides.html)
