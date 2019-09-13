@@ -1,1 +1,1 @@
-# techparty-2019-charla-gestion-tiempo
+- [Slides - Tips para mejorar la gestión de tu tiempo - Tech.Party.2019]()

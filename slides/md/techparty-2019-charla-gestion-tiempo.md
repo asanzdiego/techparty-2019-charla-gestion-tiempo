@@ -32,27 +32,27 @@
 ## Esta charla
 
 > - Muchos amigos y compañeros me preguntan de donde saco tiempo.
-    > - De ahí la **motivación** de esta charla.
+>       - De ahí la **motivación** de esta charla.
 > - Es la primera charla no técnica que doy.
-    > - De ahí la **preparación** de esta charla.
+>       - De ahí la **preparación** de esta charla.
 
 ## Vídeos resumen
 
 > - [Getting Things Done (GTD) | David Allen](https://www.youtube.com/watch?v=gCswMsONkwY)
-    > - Captura, clarifica, organiza, revisa, comprometete.
+>       - Captura, clarifica, organiza, revisa, comprometete.
 > - [The 7 habits of highly effective people | Stephen Covey](https://www.youtube.com/watch?v=ktlTxC4QG8g)
-    > - Los 2 más importantes: se proactivo y haz primero lo primero.
+>       - Los 2 más importantes: se proactivo y haz primero lo primero.
 > - [80/20 Rule - Do More by Doing Less | The Pareto Principle](https://www.youtube.com/watch?v=EAynHZE-lK4)
-    > - El 80% de las consecuencias proviene del 20% de las causas.
+>       - El 80% de las consecuencias proviene del 20% de las causas.
 
 ## Charlas TED
 
 > - [How to gain control of your free time | Laura Vanderkam](https://www.youtube.com/watch?v=n3kNlFMXslo)
-    > - "No tengo tiempo", a menudo significa "No es una prioridad."
+>       - "No tengo tiempo", a menudo significa "No es una prioridad."
 > - [How to stop screwing yourself over | Mel Robbins](https://www.youtube.com/watch?v=Lp7E973zozc)
-    > - La regla de los 5 segundos para no procastinar.
+>       - La regla de los 5 segundos para no procrastinar.
 > - [What makes a good life? Lessons from the longest study on happiness | Robert Waldinger](https://www.youtube.com/watch?v=8KkKuTCFvzI)
-    > - Las relaciones cercanas y verdaderas hacen más feliz a la persona que el dinero o la fama.
+>       - Las relaciones cercanas y verdaderas hacen más feliz a la persona que el dinero o la fama.
 
 # Objetivos
 
@@ -60,27 +60,27 @@
 
 > - Los objetivos nos ayudan a cumplir nuestros **sueños**.
 > - Tienen que ser **desafiantes** para que sean motivadores.
-> - Tienen que ser **realizables** según tu nivel de habilidad.
+> - Tienen que ser **realizables** según nuestro nivel de habilidad.
 > - Se tienen que **poder medir** para poder evaluar su consecución.
-> - Evalualos y escribe unos nuevos **al menos una vez al año**.
-> - Cubre **todas las areas importantes** de tu vida.
+> - Evalúalos y escribe unos nuevos **al menos una vez al año**.
+> - Cubre **todas las áreas importantes** de tu vida.
 
 ## Áreas importantes
 
 > - **Salud**
-    > - Alimentación, deporte, dormir, diversión...
+>       - Alimentación, deporte, dormir, diversión...
 > - **Dinero**
-    > - Trabajo, formación, gastos, ahorros...
+>       - Trabajo, formación, gastos, ahorros...
 > - **Amor**
-    > - Pareja, familia, amigos, comunidad...
+>       - Pareja, familia, amigos, comunidad...
 
 ## Ejemplos de objetivos
 
-> - Perder 2 kilos
-> - Correr una determinada carrera
-> - Dormir 8 horas
-> - Superar el B2 de inglés
-> - Aprender una determinada tecnología
+> - Perder 2 kilos.
+> - Correr una determinada carrera de X km.
+> - Dormir 8 horas.
+> - Superar el B2 de inglés.
+> - Aprender una determinada tecnología.
 > - Ahorrar X € al año.
 > - Pasar más tiempo con mis seres queridos.
 
@@ -97,9 +97,13 @@
 
 ## Importante vs Urgente
 
-|            | IMPORTANTE | NO IMPORTANTE |
++------------+------------+---------------+
+|            | IMPORTANTE | NO_IMPORTANTE |
++------------+------------+---------------+
 | URGENTE    | - hazlo    | - agéndalo    |
-| NO URGENTE | - delégalo | - evítalo     |
++------------+------------+---------------+
+| NO_URGENTE | - delégalo | - evítalo     |
++------------+------------+---------------+
 
 ## Ejemplos de tareas
 
@@ -114,36 +118,37 @@
 ## Herramientas
 
 > - **Calendario** con agenda (para planificar tus tareas).
-> - **Lista de tareas** (no todas se agendan)
-> - **Alarmas** (movil o reloj) programables.
+> - **Lista de tareas** (no todas se agendan y hay que priorizar).
+>       - Ejemplo: <http://bit.ly/lista-tareas>
+> - **Alarmas** (móvil o reloj) programables.
 
 ## Tips varios
 
 > - Haz solo **una cosa a la vez**.
 > - Mantén el **orden** físico y virtual.
-> - **Automatiza** todo lo que puedas.
+> - **Automatiza** todo lo que puedas (reglas mail, scripts, etc.).
 > - Recuerda la **regla 80/20**.
 > - El tiempo de una tarea **se expande** en función del tiempo asignado.
 > - Aprende a **decir NO** para no embarcarte en asuntos que no son tus planes.
+> - Aprovecha **tiempos muertos** (ej. transporte público) para hacer tareas de baja intensidad (charla técnica).
 
 # Ladrones de tiempo
 
 ## Distracciones
 
-> - Cuando en vez de hacer tus tareas programadas empiezas a procastinar.
-    > - Utiliza la **regla de los 5 segundos**.
-    > - Date de baja de **listas de correo** que no te sean útiles.
-    > - Desinstala las **redes sociales** del teléfono.
-    > - Cierra todas las **pestañas del navegador**, salvo las 2/3 que uses.
+> - Cuando en vez de hacer tus tareas programadas empiezas a procrastinar.
+>       - Utiliza la **regla de los 5 segundos**.
+>       - Date de baja de **listas de correo** que no te sean útiles.
+>       - Desinstala las **redes sociales** del móvil.
+>       - Cierra todas las **pestañas del navegador**, salvo las 2/3 que uses.
 
 ## Interrupciones
 
 > - Cuando te interrumpen en mitad de una tarea programada.
-    > - **Ponte cascos** y comenta a tus compañeros que no te molesten mientras los tienes puestos.
-    > - Pon el móvil y el ordenador en **modo no molestar** sin notificaciones.
-    > - Mira el **correo** solo 2/3 veces al día.
-    > - **Reuniones** de no más de una hora con una agenda clara.
-
+>       - **Ponte cascos** y comenta a tus compañeros que no te molesten mientras los tienes puestos.
+>       - Pon el móvil y el ordenador en **modo no molestar** sin notificaciones.
+>       - Mira el **correo** solo 2/3 veces al día.
+>       - **Reuniones** de no más de una hora con una agenda clara.
 
 # Para finalizar
 
