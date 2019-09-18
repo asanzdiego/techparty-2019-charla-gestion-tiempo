@@ -10,19 +10,17 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-  <link rel="stylesheet" href="../lib/reveal.js/css/reveal.css">
-  <link rel="stylesheet" href="../lib/reveal.js-menu/menu.css">
-  <link rel="stylesheet" href="../lib/reveal.js/css/theme/beige.css" id="theme">
-
-	<!-- For syntax highlighting -->
-	<link rel="stylesheet" href="../lib/reveal.js/lib/css/zenburn.css">
-
+  <link rel="stylesheet" href="../lib/reveal.js//css/reveal.css">
+  <link rel="stylesheet" href="../lib/reveal.js-title-footer//plugin/title-footer.css">
+  <link rel="stylesheet" href="../lib/reveal.js-menu//menu.css">
+<style type="text/css">code{white-space: pre; background-color: lightgrey;}</style>
+  <link rel="stylesheet" href="../lib/reveal.js//css/theme/beige.css" id="theme">
   <!-- Printing and PDF exports -->
   <script>
     var link = document.createElement( 'link' );
     link.rel = 'stylesheet';
     link.type = 'text/css';
-    link.href = window.location.search.match( /print-pdf/gi ) ? '../lib/reveal.js/css/print/pdf.css' : '../lib/reveal.js/css/print/paper.css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? '../lib/reveal.js//css/print/pdf.css' : '../lib/reveal.js//css/print/paper.css';
     document.getElementsByTagName( 'head' )[0].appendChild( link );
   </script>
 
@@ -39,9 +37,10 @@
       color: rgba(0, 0, 0, 0.7);
     }
     .reveal section img {
-      margin: 15px 0px;
-      padding: 15px;
+      margin: 0px;
+      padding: 0px;
       background: rgba(255, 255, 255, 0.9);
+      border: 0px;
     }
     strong {
       color: #777
@@ -69,25 +68,34 @@
       h2 { font-size: 200% !important; }
       h3 { font-size: 150% !important; }
     }
+    footer p {
+      font-size: 75% !important;
+      text-align: center;
+    }
+    footer {
+      position: absolute;
+      bottom: 0%;
+      width: 100%;
+    }
   </style>
   <!--[if lt IE 9]>
-  <script src="../lib/reveal.js/lib/js/html5shiv.js"></script>
+  <script src="../lib/reveal.js//lib/js/html5shiv.js"></script>
   <![endif]-->
 </head>
 <body>
   <div class="reveal">
     <div class="slides">
 
-<section id="only-print-parent">
-    <div id="only-print-child">
+<section class="only-print-parent">
+    <div class="only-print-child">
       <h1 class="title">Tips para mejorar la gestión de tu tiempo</h2>
       <h2 class="author">Adolfo Sanz De Diego</h2>
       <h3 class="date">Tech.Party.2019</h3>
     </div>
 </section>
 
-<section><section id="autor" class="titleslide slide level1"><h1><span class="header-section-number">2</span> Autor</h1></section><section id="adolfo-sanz-de-diego" class="slide level2">
-<h2><span class="header-section-number">2.1</span> Adolfo Sanz De Diego</h2>
+<section><section id="autor" class="titleslide slide level1"><h1>Autor</h1></section><section id="adolfo-sanz-de-diego" class="slide level2">
+<h2>Adolfo Sanz De Diego</h2>
 <ul>
 <li>Blog: <a href="http://asanzdiego.com/">asanzdiego.com</a></li>
 <li>Correo: <a href="mailto:asanzdiego@gmail.com">asanzdiego@gmail.com</a></li>
@@ -97,25 +105,25 @@
 <li>SlideShare: <a href="http://www.slideshare.net/asanzdiego/">slideshare.net/asanzdiego</a></li>
 </ul>
 </section><section id="mi-vida-profesional" class="slide level2">
-<h2><span class="header-section-number">2.2</span> Mi vida profesional</h2>
+<h2>Mi vida profesional</h2>
 <ul>
 <li class="fragment">Asesor Técnico en la Consejería de Educación de la <a href="http://www.comunidad.madrid/">CAM</a>.</li>
-<li class="fragment">Colaboro como profesor en la <a href="http://www.uah.es/">Universidad de Alcalá</a> en varios Másters.</li>
-<li class="fragment">Colaboro como formador en <a href="http://www.pronoide.com/">Pronoide</a> en varios cursos.</li>
-<li class="fragment">Lidero <a href="http://www.pronoide.com/">HackathonLovers</a> montando hackathones.</li>
+<li class="fragment">Colaboro como profesor en la <a href="http://www.uah.es/">Universidad de Alcalá</a>.</li>
+<li class="fragment">Colaboro como formador en <a href="http://www.pronoide.com/">Pronoide</a>.</li>
+<li class="fragment">Lidero <a href="http://www.pronoide.com/">HackathonLovers</a>.</li>
 <li class="fragment">Soy ponente en varios eventos y meetups.</li>
 </ul>
 </section><section id="mi-vida-personal" class="slide level2">
-<h2><span class="header-section-number">2.3</span> Mi vida personal</h2>
+<h2>Mi vida personal</h2>
 <ul>
 <li class="fragment">Veo series, películas y charlas técnicas.</li>
-<li class="fragment">Aprendo al menos una nueva tecnología al año.</li>
+<li class="fragment">Aprendo algo nuevo todos los años.</li>
 <li class="fragment">Escribo más o menos un post al mes en mi blog.</li>
 <li class="fragment">Salgo a correr y voy al gimnasio.</li>
 <li class="fragment">Estoy casado y soy padre de 2 hijas.</li>
 </ul>
 </section><section id="esta-charla" class="slide level2">
-<h2><span class="header-section-number">2.4</span> Esta charla</h2>
+<h2>Esta charla</h2>
 <ul>
 <li class="fragment">Muchos amigos y compañeros me preguntan de donde saco tiempo.
 <ul>
@@ -127,7 +135,7 @@
 </ul></li>
 </ul>
 </section><section id="vídeos-resumen" class="slide level2">
-<h2><span class="header-section-number">2.5</span> Vídeos resumen</h2>
+<h2>Vídeos resumen</h2>
 <ul>
 <li class="fragment"><a href="https://www.youtube.com/watch?v=gCswMsONkwY">Getting Things Done (GTD) | David Allen</a>
 <ul>
@@ -143,7 +151,7 @@
 </ul></li>
 </ul>
 </section><section id="charlas-ted" class="slide level2">
-<h2><span class="header-section-number">2.6</span> Charlas TED</h2>
+<h2>Charlas TED</h2>
 <ul>
 <li class="fragment"><a href="https://www.youtube.com/watch?v=n3kNlFMXslo">How to gain control of your free time | Laura Vanderkam</a>
 <ul>
@@ -159,18 +167,19 @@
 </ul></li>
 </ul>
 </section></section>
-<section><section id="objetivos" class="titleslide slide level1"><h1><span class="header-section-number">3</span> Objetivos</h1></section><section id="concretar-sueños" class="slide level2">
-<h2><span class="header-section-number">3.1</span> Concretar sueños</h2>
+<section><section id="objetivos" class="titleslide slide level1"><h1>Objetivos</h1></section><section id="cumplir-sueños" class="slide level2">
+<h2>Cumplir sueños</h2>
 <ul>
 <li class="fragment">Los objetivos nos ayudan a cumplir nuestros <strong>sueños</strong>.</li>
 <li class="fragment">Tienen que ser <strong>desafiantes</strong> para que sean motivadores.</li>
 <li class="fragment">Tienen que ser <strong>realizables</strong> según nuestro nivel de habilidad.</li>
+<li class="fragment">Sólo pueden <strong>depender de ti</strong> y no de terceras personas.</li>
 <li class="fragment">Se tienen que <strong>poder medir</strong> para poder evaluar su consecución.</li>
 <li class="fragment">Evalúalos y escribe unos nuevos <strong>al menos una vez al año</strong>.</li>
 <li class="fragment">Cubre <strong>todas las áreas importantes</strong> de tu vida.</li>
 </ul>
 </section><section id="áreas-importantes" class="slide level2">
-<h2><span class="header-section-number">3.2</span> Áreas importantes</h2>
+<h2>Áreas importantes</h2>
 <ul>
 <li class="fragment"><strong>Salud</strong>
 <ul>
@@ -186,7 +195,7 @@
 </ul></li>
 </ul>
 </section><section id="ejemplos-de-objetivos" class="slide level2">
-<h2><span class="header-section-number">3.3</span> Ejemplos de objetivos</h2>
+<h2>Ejemplos de objetivos</h2>
 <ul>
 <li class="fragment">Perder 2 kilos.</li>
 <li class="fragment">Correr una determinada carrera de X km.</li>
@@ -197,8 +206,8 @@
 <li class="fragment">Pasar más tiempo con mis seres queridos.</li>
 </ul>
 </section></section>
-<section><section id="tareas" class="titleslide slide level1"><h1><span class="header-section-number">4</span> Tareas</h1></section><section id="concretar-objetivos" class="slide level2">
-<h2><span class="header-section-number">4.1</span> Concretar objetivos</h2>
+<section><section id="tareas" class="titleslide slide level1"><h1>Tareas</h1></section><section id="concretar-objetivos" class="slide level2">
+<h2>Concretar objetivos</h2>
 <ul>
 <li class="fragment">Las tareas nos ayudan a cumplir nuestros <strong>objetivos</strong>.</li>
 <li class="fragment">Tienen que ser <strong>cortas</strong> aunque haya muchas para un mismo objetivo.</li>
@@ -208,21 +217,21 @@
 <li class="fragment">Cubre <strong>todos las objetivos</strong> de tus sueños.</li>
 </ul>
 </section><section id="importante-vs-urgente" class="slide level2">
-<h2><span class="header-section-number">4.2</span> Importante vs Urgente</h2>
-<table style="width:58%;">
+<h2>Importante vs Urgente</h2>
+<table style="width:62%;">
 <colgroup>
-<col style="width: 18%" />
+<col style="width: 22%" />
 <col style="width: 18%" />
 <col style="width: 22%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p>IMPORTANTE</p></td>
-<td><p>NO_IMPORTANTE</p></td>
+<td><p>URGENTE</p></td>
+<td><p>NO_URGENTE</p></td>
 </tr>
 <tr class="even">
-<td><p>URGENTE</p></td>
+<td><p>IMPORTANTE</p></td>
 <td><ul>
 <li>hazlo</li>
 </ul></td>
@@ -231,7 +240,7 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>NO_URGENTE</p></td>
+<td><p>NO_IMPORTANTE</p></td>
 <td><ul>
 <li>delégalo</li>
 </ul></td>
@@ -242,31 +251,33 @@
 </tbody>
 </table>
 </section><section id="ejemplos-de-tareas" class="slide level2">
-<h2><span class="header-section-number">4.3</span> Ejemplos de tareas</h2>
+<h2>Ejemplos de tareas</h2>
 <ul>
 <li class="fragment">Lunes y miércoles comer una ensalada.</li>
 <li class="fragment">Martes y jueves salir a correr de 20:00 a 21:00.</li>
 <li class="fragment">De lunes a viernes ponerme alarma a las 23:00 para irme a dormir.</li>
 <li class="fragment">Antes de acostarme 15 minutos de ejercicios de inglés.</li>
-<li class="fragment">Viernes de 16:00 a 17:00 ver una charla técnica en inglés.</li>
+<li class="fragment">En el metro ver charlas técnicas (si es posible en inglés).</li>
 <li class="fragment">A principio de mes meter X/12 € en la cuenta de ahorro de forma automática.</li>
 <li class="fragment">Domingos de 18:00 a 20:00 juegos de mesa en familia.</li>
 </ul>
 </section><section id="herramientas" class="slide level2">
-<h2><span class="header-section-number">4.4</span> Herramientas</h2>
+<h2>Herramientas</h2>
 <ul>
 <li class="fragment"><strong>Calendario</strong> con agenda (para planificar tus tareas).</li>
-<li class="fragment"><strong>Lista de tareas</strong> (no todas se agendan y hay que priorizar).
+<li class="fragment"><strong>Lista de tareas</strong> (antes de agendalas hay que priorizarlas).
 <ul>
 <li class="fragment">Ejemplo: <a href="http://bit.ly/lista-tareas" class="uri">http://bit.ly/lista-tareas</a></li>
 </ul></li>
 <li class="fragment"><strong>Alarmas</strong> (móvil o reloj) programables.</li>
 </ul>
 </section><section id="tips-varios" class="slide level2">
-<h2><span class="header-section-number">4.5</span> Tips varios</h2>
+<h2>Tips varios</h2>
 <ul>
-<li class="fragment">Haz solo <strong>una cosa a la vez</strong>.</li>
+<li class="fragment">Haz <strong>primero lo primero</strong>.</li>
 <li class="fragment">Mantén el <strong>orden</strong> físico y virtual.</li>
+<li class="fragment">Haz solo <strong>una cosa a la vez</strong>.</li>
+<li class="fragment">Conoce tus <strong>herramientas de trabajo</strong> como un samurai su katana.</li>
 <li class="fragment"><strong>Automatiza</strong> todo lo que puedas (reglas mail, scripts, etc.).</li>
 <li class="fragment">Recuerda la <strong>regla 80/20</strong>.</li>
 <li class="fragment">El tiempo de una tarea <strong>se expande</strong> en función del tiempo asignado.</li>
@@ -274,8 +285,8 @@
 <li class="fragment">Aprovecha <strong>tiempos muertos</strong> (ej. transporte público) para hacer tareas de baja intensidad (charla técnica).</li>
 </ul>
 </section></section>
-<section><section id="ladrones-de-tiempo" class="titleslide slide level1"><h1><span class="header-section-number">5</span> Ladrones de tiempo</h1></section><section id="distracciones" class="slide level2">
-<h2><span class="header-section-number">5.1</span> Distracciones</h2>
+<section><section id="ladrones-de-tiempo" class="titleslide slide level1"><h1>Ladrones de tiempo</h1></section><section id="distracciones" class="slide level2">
+<h2>Distracciones</h2>
 <ul>
 <li class="fragment">Cuando en vez de hacer tus tareas programadas empiezas a procrastinar.
 <ul>
@@ -286,7 +297,7 @@
 </ul></li>
 </ul>
 </section><section id="interrupciones" class="slide level2">
-<h2><span class="header-section-number">5.2</span> Interrupciones</h2>
+<h2>Interrupciones</h2>
 <ul>
 <li class="fragment">Cuando te interrumpen en mitad de una tarea programada.
 <ul>
@@ -297,33 +308,29 @@
 </ul></li>
 </ul>
 </section></section>
-<section><section id="para-finalizar" class="titleslide slide level1"><h1><span class="header-section-number">6</span> Para finalizar</h1></section><section id="resumen" class="slide level2">
-<h2><span class="header-section-number">6.1</span> Resumen</h2>
+<section><section id="para-finalizar" class="titleslide slide level1"><h1>Para finalizar</h1></section><section id="resumen" class="slide level2">
+<h2>Resumen</h2>
 <ul>
-<li class="fragment">Marcar unos <strong>objetivos</strong> desafiantes pero realizables y que se se pueden medir.</li>
+<li class="fragment">Marcar TUS <strong>objetivos</strong> desafiantes pero realizables y que se se pueden medir.</li>
 <li class="fragment"><strong>Evaluar</strong> al menos una vez al año tu lista de objetivos.</li>
 <li class="fragment">Dividir en <strong>tareas</strong> cortas, concretas y que se puedan agendar.</li>
 <li class="fragment"><strong>Agendar</strong> al menos una vez a la semana tu lista de tareas.</li>
 <li class="fragment">Evitar las <strong>distracciones</strong> internas y las <strong>interrupciones</strong> externas.</li>
 </ul>
 </section><section id="licencia" class="slide level2">
-<h2><span class="header-section-number">6.2</span> Licencia</h2>
+<h2>Licencia</h2>
 <ul>
 <li><strong>Esta obra está bajo una licencia:</strong></li>
 <li><a href="http://creativecommons.org/licenses/by-sa/3.0/es/">Creative Commons Reconocimiento-CompartirIgual 3.0</a></li>
 </ul>
 </section><section id="gracias" class="slide level2">
-<h2><span class="header-section-number">6.3</span> Gracias</h2>
-<p><img src="../img/qr-feedback.png" alt="Codigo QR a http://bit.ly/techparty2019" style="width:35%"/></p>
-<ul>
-<li><a href="http://bit.ly/techparty2019" class="uri">http://bit.ly/techparty2019</a></li>
-</ul>
+<h2>Gracias</h2>
 </section></section>
     </div>
   </div>
 
-  <script src="../lib/reveal.js/lib/js/head.min.js"></script>
-  <script src="../lib/reveal.js/js/reveal.js"></script>
+  <script src="../lib/reveal.js//lib/js/head.min.js"></script>
+  <script src="../lib/reveal.js//js/reveal.js"></script>
 
   <script>
 
@@ -336,13 +343,13 @@
         // The "normal" size of the presentation, aspect ratio will be preserved
         // when the presentation is scaled to fit different resolutions. Can be
         // specified using percentage units.
-        width: 1024,
-        height: 576,
+        width: 1280,
+        height: 720,
         // Factor of the display size that should remain empty around the content
-        margin: 0.3,
+        margin: 0.1,
         // Bounds for smallest/largest possible scale to apply to content
-        minScale: 0.1,
-        maxScale: 1.9,
+        minScale: 0.9,
+        maxScale: 1.1,
 
         menu: {
             // Specifies which side of the presentation the menu will
@@ -378,17 +385,17 @@
             // Specifies the themes that will be available in the themes
             // menu panel. Set to 'false' to hide themes panel.
             themes: [
-                { name: 'Black', theme: '../lib/reveal.js/css/theme/black.css' },
-                { name: 'White', theme: '../lib/reveal.js/css/theme/white.css' },
-                { name: 'League', theme: '../lib/reveal.js/css/theme/league.css' },
-                { name: 'Sky', theme: '../lib/reveal.js/css/theme/sky.css' },
-                { name: 'Beige', theme: '../lib/reveal.js/css/theme/beige.css' },
-                { name: 'Simple', theme: '../lib/reveal.js/css/theme/simple.css' },
-                { name: 'Serif', theme: '../lib/reveal.js/css/theme/serif.css' },
-                { name: 'Blood', theme: '../lib/reveal.js/css/theme/blood.css' },
-                { name: 'Night', theme: '../lib/reveal.js/css/theme/night.css' },
-                { name: 'Moon', theme: '../lib/reveal.js/css/theme/moon.css' },
-                { name: 'Solarized', theme: '../lib/reveal.js/css/theme/solarized.css' }
+                { name: 'Black', theme: '../lib/reveal.js//css/theme/black.css' },
+                { name: 'White', theme: '../lib/reveal.js//css/theme/white.css' },
+                { name: 'League', theme: '../lib/reveal.js//css/theme/league.css' },
+                { name: 'Sky', theme: '../lib/reveal.js//css/theme/sky.css' },
+                { name: 'Beige', theme: '../lib/reveal.js//css/theme/beige.css' },
+                { name: 'Simple', theme: '../lib/reveal.js//css/theme/simple.css' },
+                { name: 'Serif', theme: '../lib/reveal.js//css/theme/serif.css' },
+                { name: 'Blood', theme: '../lib/reveal.js//css/theme/blood.css' },
+                { name: 'Night', theme: '../lib/reveal.js//css/theme/night.css' },
+                { name: 'Moon', theme: '../lib/reveal.js//css/theme/moon.css' },
+                { name: 'Solarized', theme: '../lib/reveal.js//css/theme/solarized.css' }
             ],
 
             // Specifies if the transitions menu panel will be shown.
@@ -411,11 +418,13 @@
 
         // Optional reveal.js plugins
         dependencies: [
-          { src: '../lib/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-          { src: '../lib/reveal.js/plugin/zoom-js/zoom.js', async: true },
-          { src: '../lib/reveal.js/plugin/notes/notes.js', async: true },
-          //{ src: '../lib/reveal.js/plugin/search/search.js', async: true },
-          { src: '../lib/reveal.js-menu/menu.js', async: true }
+          { src: '../lib/reveal.js-title-footer//plugin/title-footer/title-footer.js', async: true, callback: function() { 
+              title_footer.initialize(null, 'rgba(0,0,0,0)');
+            } },
+          { src: '../lib/reveal.js-menu//menu.js', async: true },
+          { src: '../lib/reveal.js//lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: '../lib/reveal.js//plugin/zoom-js/zoom.js', async: true },
+          { src: '../lib/reveal.js//plugin/notes/notes.js', async: true }
         ]
       });
     </script>

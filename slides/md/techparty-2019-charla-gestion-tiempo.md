@@ -16,15 +16,15 @@
 ## Mi vida profesional
 
 > - Asesor Técnico en la Consejería de Educación de la [CAM](http://www.comunidad.madrid/).
-> - Colaboro como profesor en la [Universidad de Alcalá](http://www.uah.es/) en varios Másters.
-> - Colaboro como formador en [Pronoide](http://www.pronoide.com/) en varios cursos.
-> - Lidero [HackathonLovers](http://www.pronoide.com/) montando hackathones.
+> - Colaboro como profesor en la [Universidad de Alcalá](http://www.uah.es/).
+> - Colaboro como formador en [Pronoide](http://www.pronoide.com/).
+> - Lidero [HackathonLovers](http://www.pronoide.com/).
 > - Soy ponente en varios eventos y meetups.
 
 ## Mi vida personal
 
 > - Veo series, películas y charlas técnicas.
-> - Aprendo al menos una nueva tecnología al año.
+> - Aprendo algo nuevo todos los años.
 > - Escribo más o menos un post al mes en mi blog.
 > - Salgo a correr y voy al gimnasio.
 > - Estoy casado y soy padre de 2 hijas.
@@ -56,11 +56,12 @@
 
 # Objetivos
 
-## Concretar sueños
+## Cumplir sueños
 
 > - Los objetivos nos ayudan a cumplir nuestros **sueños**.
 > - Tienen que ser **desafiantes** para que sean motivadores.
 > - Tienen que ser **realizables** según nuestro nivel de habilidad.
+> - Sólo pueden **depender de ti** y no de terceras personas.
 > - Se tienen que **poder medir** para poder evaluar su consecución.
 > - Evalúalos y escribe unos nuevos **al menos una vez al año**.
 > - Cubre **todas las áreas importantes** de tu vida.
@@ -97,13 +98,13 @@
 
 ## Importante vs Urgente
 
-+------------+------------+---------------+
-|            | IMPORTANTE | NO_IMPORTANTE |
-+------------+------------+---------------+
-| URGENTE    | - hazlo    | - agéndalo    |
-+------------+------------+---------------+
-| NO_URGENTE | - delégalo | - evítalo     |
-+------------+------------+---------------+
++---------------+------------+---------------+
+|               |  URGENTE   |  NO_URGENTE   |
++---------------+------------+---------------+
+| IMPORTANTE    | - hazlo    | - agéndalo    |
++---------------+------------+---------------+
+| NO_IMPORTANTE | - delégalo | - evítalo     |
++---------------+------------+---------------+
 
 ## Ejemplos de tareas
 
@@ -111,21 +112,23 @@
 > - Martes y jueves salir a correr de 20:00 a 21:00.
 > - De lunes a viernes ponerme alarma a las 23:00 para irme a dormir.
 > - Antes de acostarme 15 minutos de ejercicios de inglés.
-> - Viernes de 16:00 a 17:00 ver una charla técnica en inglés.
+> - En el metro ver charlas técnicas (si es posible en inglés).
 > - A principio de mes meter X/12 € en la cuenta de ahorro de forma automática.
 > - Domingos de 18:00 a 20:00 juegos de mesa en familia.
 
 ## Herramientas
 
 > - **Calendario** con agenda (para planificar tus tareas).
-> - **Lista de tareas** (no todas se agendan y hay que priorizar).
+> - **Lista de tareas** (antes de agendalas hay que priorizarlas).
 >       - Ejemplo: <http://bit.ly/lista-tareas>
 > - **Alarmas** (móvil o reloj) programables.
 
 ## Tips varios
 
-> - Haz solo **una cosa a la vez**.
+> - Haz **primero lo primero**.
 > - Mantén el **orden** físico y virtual.
+> - Haz solo **una cosa a la vez**.
+> - Conoce tus **herramientas de trabajo** como un samurai su katana.
 > - **Automatiza** todo lo que puedas (reglas mail, scripts, etc.).
 > - Recuerda la **regla 80/20**.
 > - El tiempo de una tarea **se expande** en función del tiempo asignado.
@@ -154,7 +157,7 @@
 
 ## Resumen
 
-> - Marcar unos **objetivos** desafiantes pero realizables y que se se pueden medir.
+> - Marcar TUS **objetivos** desafiantes pero realizables y que se se pueden medir.
 > - **Evaluar** al menos una vez al año tu lista de objetivos.
 > - Dividir en **tareas** cortas, concretas y que se puedan agendar.
 > - **Agendar** al menos una vez a la semana tu lista de tareas.
@@ -165,8 +168,4 @@
 - **Esta obra está bajo una licencia:**
   - [Creative Commons Reconocimiento-CompartirIgual 3.0](http://creativecommons.org/licenses/by-sa/3.0/es/)
 
-## Gracias
-
-<img src="../img/qr-feedback.png" alt="Codigo QR a http://bit.ly/techparty2019" style="width:35%"/>
-
-- <http://bit.ly/techparty2019>
+# Gracias
